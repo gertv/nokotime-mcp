@@ -1,0 +1,17 @@
+# Binaries
+server
+*.exe
+*.out
+
+# Logs & temp
+*.log
+.DS_Store
+
+# direnv
+.envrc
+
+# Goland
+.idea
+
+# Antigravity
+.agents
